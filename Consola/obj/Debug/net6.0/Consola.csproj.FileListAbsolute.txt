@@ -1,0 +1,36 @@
+C:\Users\Natalia\source\repos\Integrador\Consola\bin\Debug\net6.0\Consola.exe
+C:\Users\Natalia\source\repos\Integrador\Consola\bin\Debug\net6.0\Consola.deps.json
+C:\Users\Natalia\source\repos\Integrador\Consola\bin\Debug\net6.0\Consola.runtimeconfig.json
+C:\Users\Natalia\source\repos\Integrador\Consola\bin\Debug\net6.0\Consola.dll
+C:\Users\Natalia\source\repos\Integrador\Consola\bin\Debug\net6.0\Consola.pdb
+C:\Users\Natalia\source\repos\Integrador\Consola\bin\Debug\net6.0\Entidades.dll
+C:\Users\Natalia\source\repos\Integrador\Consola\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Natalia\source\repos\Integrador\Consola\obj\Debug\net6.0\Consola.csproj.AssemblyReference.cache
+C:\Users\Natalia\source\repos\Integrador\Consola\obj\Debug\net6.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia\source\repos\Integrador\Consola\obj\Debug\net6.0\Consola.AssemblyInfoInputs.cache
+C:\Users\Natalia\source\repos\Integrador\Consola\obj\Debug\net6.0\Consola.AssemblyInfo.cs
+C:\Users\Natalia\source\repos\Integrador\Consola\obj\Debug\net6.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\source\repos\Integrador\Consola\obj\Debug\net6.0\Consola.csproj.CopyComplete
+C:\Users\Natalia\source\repos\Integrador\Consola\obj\Debug\net6.0\Consola.dll
+C:\Users\Natalia\source\repos\Integrador\Consola\obj\Debug\net6.0\refint\Consola.dll
+C:\Users\Natalia\source\repos\Integrador\Consola\obj\Debug\net6.0\Consola.pdb
+C:\Users\Natalia\source\repos\Integrador\Consola\obj\Debug\net6.0\Consola.genruntimeconfig.cache
+C:\Users\Natalia\source\repos\Integrador\Consola\obj\Debug\net6.0\ref\Consola.dll
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\bin\Debug\net6.0\Consola.exe
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\bin\Debug\net6.0\Consola.deps.json
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\bin\Debug\net6.0\Consola.runtimeconfig.json
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\bin\Debug\net6.0\Consola.dll
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\bin\Debug\net6.0\Consola.pdb
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\bin\Debug\net6.0\Entidades.dll
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\bin\Debug\net6.0\Entidades.pdb
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\obj\Debug\net6.0\Consola.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\obj\Debug\net6.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\obj\Debug\net6.0\Consola.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\obj\Debug\net6.0\Consola.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\obj\Debug\net6.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\obj\Debug\net6.0\Consola.csproj.CopyComplete
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\obj\Debug\net6.0\Consola.dll
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\obj\Debug\net6.0\refint\Consola.dll
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\obj\Debug\net6.0\Consola.pdb
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\obj\Debug\net6.0\Consola.genruntimeconfig.cache
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Consola\obj\Debug\net6.0\ref\Consola.dll
