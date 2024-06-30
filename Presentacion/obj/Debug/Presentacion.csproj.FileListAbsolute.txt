@@ -1,0 +1,13 @@
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Presentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Presentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Presentacion\obj\Debug\Presentacion.formPrincipal.resources
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
