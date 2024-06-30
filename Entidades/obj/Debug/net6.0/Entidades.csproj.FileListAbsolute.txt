@@ -1,0 +1,22 @@
+C:\Users\Natalia\source\repos\Integrador\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\Natalia\source\repos\Integrador\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\Natalia\source\repos\Integrador\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Natalia\source\repos\Integrador\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia\source\repos\Integrador\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Natalia\source\repos\Integrador\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\Natalia\source\repos\Integrador\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\source\repos\Integrador\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\Natalia\source\repos\Integrador\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\Natalia\source\repos\Integrador\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\Natalia\source\repos\Integrador\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\natal\OneDrive\Documentos\IFTS\Segundo Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Integrador\Entidades\obj\Debug\net6.0\ref\Entidades.dll
